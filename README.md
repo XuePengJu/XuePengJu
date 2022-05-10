@@ -5,9 +5,9 @@
 **About me**
 
 - 👋 Hi, I’m @XuePengJu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Java&Python Autotest
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 👀 I am a test engineer 
+- ❤️ I like to learn and practice all kinds of online knowledge and technology.
+- 🌱 I have been continuously learning technologies related to Java & Python automated testing and tool integration
 
 <!---
 XuePengJu/XuePengJu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
