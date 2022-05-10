@@ -1,4 +1,4 @@
-<p align="center"><a href="https://raw.githubusercontent.com/XuePengJu/XuePengJu/main//"><img width="30%" src="./helloword.gif" /></a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/XuePengJu/XuePengJu/main"><img width="30%" src="/helloword.gif" /></a></p>
 
 <br />
 
