@@ -1,5 +1,9 @@
 <p align="center"><a href="https://github.com/XuePengJu"><img width="30%" src="/helloword.gif" /></a></p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XuePengJu&style=flat-square&color=blue" alt="Visitor Count" />
+</p>
+
 <br />
 
 **👤 关于我 About Me**
@@ -25,9 +29,8 @@
 
 **📊 GitHub 数据 GitHub Stats**
 
-![XuePengJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=XuePengJu&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XuePengJu&layout=compact&theme=tokyonight)
-![Visitor Count](https://komarev.com/ghpvc/?username=XuePengJu&style=flat-square&color=blue)
+![GitHub Streak](https://streak-stats.demolab.com/?user=XuePengJu&theme=tokyonight&hide_border=true)
+![Metrics](https://metrics.lecoq.io/XuePengJu?template=classic&theme=tokyonight&config_timezone=Asia%2FShanghai)
 
 **📫 联系方式 Contact**
 
