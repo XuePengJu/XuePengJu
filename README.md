@@ -8,7 +8,7 @@
 
 **👤 关于我 About Me**
 
-- 👋 你好，我是 **灵光纪 ✦**
+- 👋 你好，我是 **灵光记 ✦**
 - 💼 目前从事**软件测试**工作，专注于质量保障与测试自动化。
 - 🚀 最近一直在学习前沿 AI 技术——尤其是 **AI Agent**、**RAG（检索增强生成）** 以及相关工具链。
 
@@ -34,6 +34,6 @@
 
 **📫 联系方式 Contact**
 
-- 📧 邮箱 Email：[灵光纪 ✦](mailto:xue_pengju@163.com)
-- 💻 GitHub：[灵光纪 ✦](https://github.com/XuePengJu)
-- 🔗 CSDN：[灵光纪 ✦](https://blog.csdn.net/qq_33803124)
+- 📧 邮箱 Email：[灵光记 ✦](mailto:xue_pengju@163.com)
+- 💻 GitHub：[灵光记 ✦](https://github.com/XuePengJu)
+- 🔗 CSDN：[灵光记 ✦](https://blog.csdn.net/qq_33803124)
