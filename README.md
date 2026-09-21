@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/XuePengJu"><img width="30%" src="/helloword.gif" /></a></p>
+<p align="center"><a href="https://github.com/XuePengJu"><img width="20%" src="/helloword.gif" /></a></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XuePengJu&style=flat-square&color=blue" alt="Visitor Count" />
