@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XuePengJu&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
-
-<br />
-
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-  <div style="flex: 1;">
+<table>
+<tr>
+<td width="75%">
 
 **👤 关于我 About Me**
 
@@ -13,11 +8,13 @@
 - 💼 目前从事**软件测试**工作，专注于质量保障与测试自动化。
 - 🚀 最近一直在学习前沿 AI 技术——尤其是 **AI Agent**、**RAG（检索增强生成）** 以及相关工具链。
 
-  </div>
-  <div>
-    <a href="https://github.com/XuePengJu"><img width="140px" src="/helloword.gif" /></a>
-  </div>
-</div>
+</td>
+<td width="25%" valign="top" align="center">
+  <a href="https://github.com/XuePengJu"><img width="120px" src="/helloword.gif" /></a><br/>
+  <img src="https://komarev.com/ghpvc/?username=XuePengJu&style=flat-square&color=blue" alt="Visitor Count" />
+</td>
+</tr>
+</table>
 
 **🛠️ 技术标签 Tech Badges**
 
