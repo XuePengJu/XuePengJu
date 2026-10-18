@@ -37,7 +37,7 @@
 - 💬 AI 对话 + 知识库一体化
 - ⚙️ Python 后端 / pytest 自动化测试
 
-[![ai-testgen](https://github-readme-stats.vercel.app/api/pin/?username=XuePengJu&repo=ai-testgen&theme=tokyonight)](https://github.com/XuePengJu/ai-testgen)
+[![ai-testgen](https://github-readme-stats.vercel.app/api/pin/?username=XuePengJu&repo=ai-testgen&theme=tokyonight&v=2)](https://github.com/XuePengJu/ai-testgen)
 
 **📫 联系方式 Contact**
 
