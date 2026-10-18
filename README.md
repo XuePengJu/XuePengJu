@@ -1,20 +1,10 @@
-<table>
-<tr>
-<td width="75%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hi%2C+I%27m+xuepengju;%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E5%B7%A5%E7%A8%8B%E5%B8%88;AI+%E6%B5%8B%E8%AF%95%C2%B7+AI+Agent%C2%B7+RAG+%E6%8E%A2%E7%B4%A2%E8%80%85)](https://github.com/XuePengJu)
 
 **👤 关于我 About Me**
 
 - 👋 你好，我是 **xuepengju**
 - 💼 目前从事**软件测试**工作，专注于质量保障与测试自动化。
 - 🚀 最近一直在学习前沿 AI 技术——尤其是 **AI Agent**、**RAG（检索增强生成）** 以及相关工具链。
-
-</td>
-<td width="25%" valign="top" align="center">
-  <a href="https://github.com/XuePengJu"><img width="120px" src="/helloword.gif" /></a><br/>
-  <img src="https://count.getloli.com/@XuePengJu?theme=moebooru" alt="Visitor Count" width="190px" />
-</td>
-</tr>
-</table>
 
 **🛠️ 技术标签 Tech Badges**
 
@@ -54,3 +44,7 @@
 - 📧 邮箱 Email：[xuepengju](mailto:xue_pengju@163.com)
 - 💻 GitHub：[xuepengju](https://github.com/XuePengJu)
 - 🔗 CSDN：[xuepengju](https://blog.csdn.net/qq_33803124)
+
+<div align="center">
+  <img src="https://count.getloli.com/@XuePengJu?theme=moebooru" alt="Visitor Count" width="190px" />
+</div>
