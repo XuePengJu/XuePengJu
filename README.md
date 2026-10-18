@@ -11,7 +11,7 @@
 </td>
 <td width="25%" valign="top" align="center">
   <a href="https://github.com/XuePengJu"><img width="120px" src="/helloword.gif" /></a><br/>
-  <img src="https://komarev.com/ghpvc/?username=XuePengJu&style=flat-square&color=blue" alt="Visitor Count" />
+  <img src="https://count.getloli.com/@XuePengJu?theme=moebooru" alt="Visitor Count" width="190px" />
 </td>
 </tr>
 </table>
