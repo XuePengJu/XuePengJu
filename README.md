@@ -26,10 +26,28 @@
 ![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation_Test-2EC4B6?style=for-the-badge&logo=pytest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-66266A?style=for-the-badge&logo=appium&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![接口自动化](https://img.shields.io/badge/%E6%8E%A5%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%8C%96-2088FF?style=for-the-badge)
 
 **🎯 关注方向 Focus**
 
 - 🧪 质量保障与测试自动化、CI/CD、接口服务、工具集成
+
+**🧪 项目作品 Project**
+
+**[ai-testgen](https://github.com/XuePengJu/ai-testgen)** —— AI 对话 + 测试用例生成 + 知识库平台
+
+- 🤖 LLM 驱动的测试用例自动生成，支持多厂商模型
+- 💬 AI 对话 + 知识库一体化
+- ⚙️ Python 后端 / pytest 自动化测试
+
+[![ai-testgen](https://github-readme-stats.vercel.app/api/pin/?username=XuePengJu&repo=ai-testgen&theme=tokyonight)](https://github.com/XuePengJu/ai-testgen)
 
 **📊 GitHub 数据 GitHub Stats**
 
@@ -37,6 +55,6 @@
 
 **📫 联系方式 Contact**
 
-- 📧 邮箱 Email：[xuepengju](mailto:xuepengju@163.com)
+- 📧 邮箱 Email：[xuepengju](mailto:xue_pengju@163.com)
 - 💻 GitHub：[xuepengju](https://github.com/XuePengJu)
 - 🔗 CSDN：[xuepengju](https://blog.csdn.net/qq_33803124)
