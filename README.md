@@ -49,10 +49,6 @@
 
 [![ai-testgen](https://github-readme-stats.vercel.app/api/pin/?username=XuePengJu&repo=ai-testgen&theme=tokyonight)](https://github.com/XuePengJu/ai-testgen)
 
-**📊 GitHub 数据 GitHub Stats**
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=XuePengJu&theme=tokyonight&hide_border=true)
-
 **📫 联系方式 Contact**
 
 - 📧 邮箱 Email：[xuepengju](mailto:xue_pengju@163.com)
