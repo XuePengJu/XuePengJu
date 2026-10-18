@@ -2,9 +2,9 @@
 
 **👤 关于我 About Me**
 
-- 👋 你好，我是 **xuepengju**
-- 💼 目前从事**软件测试**工作，专注于质量保障与测试自动化。
-- 🚀 最近一直在学习前沿 AI 技术——尤其是 **AI Agent**、**RAG（检索增强生成）** 以及相关工具链。
+- 👋 你好，我是 **xuepengju**，软件测试工程师
+- 💼 专注质量保障与测试自动化，**Web / App / 接口**全栈测试实践
+- 🚀 正在把 **LLM 落地到测试全流程**——用例自动生成、AI 辅助判定，持续探索 **AI Agent** 与 **RAG** 工具链
 
 **🛠️ 技术标签 Tech Badges**
 
@@ -27,15 +27,15 @@
 
 **🎯 关注方向 Focus**
 
-- 🧪 质量保障与测试自动化、CI/CD、接口服务、工具集成
+- 🧪 **AI + 测试结合实践**（用例生成 / 智能判定）、接口自动化、CI/CD 流水线、效率工具开发
 
 **🧪 项目作品 Project**
 
-**[ai-testgen](https://github.com/XuePengJu/ai-testgen)** —— AI 对话 + 测试用例生成 + 知识库平台
+**[ai-testgen](https://github.com/XuePengJu/ai-testgen)** —— 让 AI 帮测试工程师写用例的效率平台
 
-- 🤖 LLM 驱动的测试用例自动生成，支持多厂商模型
-- 💬 AI 对话 + 知识库一体化
-- ⚙️ Python 后端 / pytest 自动化测试
+- 🤖 接入多家主流大模型，测试用例一键生成
+- 💬 内置知识库，测试资产沉淀与 AI 对话一体化
+- ⚙️ Python FastAPI 后端，pytest 自动化回归
 
 [![ai-testgen](https://github-readme-stats.vercel.app/api/pin/?username=XuePengJu&repo=ai-testgen&theme=tokyonight&v=2)](https://github.com/XuePengJu/ai-testgen)
 
